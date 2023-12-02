@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Baby-NI-Parser-BE.props" />
+</Project>

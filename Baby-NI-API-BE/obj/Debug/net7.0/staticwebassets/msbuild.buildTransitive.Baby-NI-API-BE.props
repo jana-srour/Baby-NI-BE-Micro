@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Baby-NI-API-BE.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Baby-NI-Parser-BE.props" />
+</Project>

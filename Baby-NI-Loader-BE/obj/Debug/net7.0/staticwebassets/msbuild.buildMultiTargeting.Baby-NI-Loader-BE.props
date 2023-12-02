@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Baby-NI-Loader-BE.props" />
+</Project>
