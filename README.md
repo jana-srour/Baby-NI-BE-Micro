@@ -10,11 +10,12 @@
 
 ### Install
 ```bash
-git clone https://github.com/jana-srour/Baby_NI_BE.git
+git clone https://github.com/jana-srour/Baby-NI-BE-Micro.git
 ```
 
 ### Usage
-Make sure to change the directories to be watched in the appSettings.json file.<br />
+Make sure to change the directories to be watched in the **appSettings.json** file for each project.<br />
+In the file there is Configurations Section containing all the paths needed for each project, change according to your path as needed. <br />
 When all is ready, run the program.<br />
 Each API can be run alone, or together to form the whole manipulation process of the data.<br />
 
